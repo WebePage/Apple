@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Gajraj+One&display=swap');
+
+#frontpanel
+{
+    text-align: center;
+}
+
+#t1
+{
+    font-size: 30px;
+    font-family: Climate Crisis;
+    color: #3b0e09;
+}
+
+#t2
+{
+    font-size: 30px;
+    font-family: Gajraj One;
+    color: #08bd08;
+    margin-bottom: 200px;
+}
+
+#game
+{
+    position: relative;
+    margin: auto;
+    width: 485px;
+    height: 402px;
+    margin-bottom: 200px;
+}
+
+#scratchclose
+{
+    position: absolute;
+    right: 0;
+    width: 400px;
+    height: 45px;
+    background-color: #ffff;
+}
+
+#levalcodes
+{
+    padding: 10px;
+    width: auto;
+}
+
+#levalcodes p
+{
+    position: relative;
+}
